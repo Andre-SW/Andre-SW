@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [SW-Creative](https://sw-creative.de)
 
-- 👯 My current side project **WallstonRp**
-
 - 📝 I regularly write articles on [https://dev.sw-creative.de/news](https://dev.sw-creative.de/news)
 
 - 📫 How to reach me **andre@sw-creative.de**
