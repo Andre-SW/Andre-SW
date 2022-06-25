@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [SW-Creative](https://sw-creative.de)
 
-- 📝 I regularly write articles on [https://sw-creative.de/news](https://dev.sw-creative.de/news)
+- 📝 I regularly write articles on [https://sw-creative.de/news](https://sw-creative.de/news)
 
 - 📫 How to reach me **andre@sw-creative.de**
 
